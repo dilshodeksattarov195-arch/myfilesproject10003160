@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperdecrypt",
+        "uuid": 17297840,
+        "checksum": "jwzdb"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
